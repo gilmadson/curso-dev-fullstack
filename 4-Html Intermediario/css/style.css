@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family: sans-serif;
+}
+
+.header{
+    background-color: red;
+    text-align: center;
+    font-size: 36px;
+    Color: white;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+}

@@ -1,0 +1,7 @@
+ul{
+    background: grey;
+}
+ul li{
+    display: inline;
+    margin: 20px;
+}
